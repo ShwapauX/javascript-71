@@ -22,7 +22,7 @@ const personaje = prompt("ingrese su personaje favorito de suu serie", 'senku');
 console.log(personaje);
 const porque = prompt("ingrese porque es su favorito", 'el mas malote');
 console.log(porque);
-console.log("Mi serie favorita es " + serie + " y me guta el personaje de " + personaje + " y es mi favorito por que es " + porque + " asi es ");
+alert("Mi serie favorita es " + serie + " y me guta el personaje de " + personaje + " y es mi favorito por que es " + porque + " asi es ");
 
 
 
