@@ -41,9 +41,9 @@ counter = 1;
 
 while (counter < 200){
     if (counter % 2 == 0){
-        console.log(`El nuemero ${counter} es par`);
+        console.log(`El numero ${counter} es par`);
     } else {
-        console.log(`El nuemero ${counter} es impar`);
+        console.log(`El numero ${counter} es impar`);
     }
 // operador de incremento suma 1 a el valor de la variable
     counter++;
