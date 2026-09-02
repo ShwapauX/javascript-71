@@ -22,7 +22,7 @@ function multiplyNumbers(a, b){//declaration
 
 console.log(divideNumbers(10, 2));
 
-
+// Ejercicio de practica
 
 // const atinale = () => {
 //     // 1. Generamos un número aleatorio (ej. del 1 al 10)
